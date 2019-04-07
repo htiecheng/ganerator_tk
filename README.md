@@ -49,5 +49,18 @@
               value="tk.mybatis.mapper.common.Mapper,tk.mybatis.mapper.common.MySqlMapper"/>
 </plugin>
 ```
+![](https://github.com/htiecheng/ganerator_tk/blob/master/image/addplugins.png)
 
 
+# 使用插件运行
+* 进入配置
+
+![](https://github.com/htiecheng/ganerator_tk/blob/master/image/plugins1.png)
+
+* 设置maven
+
+![](https://github.com/htiecheng/ganerator_tk/blob/master/image/plugins2.png)
+
+* 双击运行插件
+
+![](https://github.com/htiecheng/ganerator_tk/blob/master/image/plugins3.png)
